@@ -23,3 +23,4 @@ Welcome to my repository of Python-based games! Here you will find a variety of 
 - **BMI Calculator**: Calculate your Body Mass Index quickly and easily.
 - **Calculator**: Perform calculations with this simple yet powerful utility.
 - **Chatbot**: Interact with a simple AI chatbot capable of responding to
+# Installation
