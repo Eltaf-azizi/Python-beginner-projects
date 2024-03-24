@@ -23,8 +23,7 @@ Welcome to my repository of Python-based games! Here you will find a variety of 
 
 - **BMI Calculator**: Calculate your Body Mass Index quickly and easily.
 - **Calculator**: Perform calculations with this simple yet powerful utility.
-- **Chatbot**: Interact with a simple AI chatbot capable of responding to
-- 
+- **Chatbot**: Interact with a simple AI chatbot capable of responding to 
 # Installation
 
 **Download Python**: Visit the official Python website at python.org, hover over the "Downloads" menu, and the site should automatically offer the latest version for Windows. Click on it to download the installer.<br>
