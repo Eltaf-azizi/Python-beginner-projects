@@ -25,8 +25,7 @@ Welcome to my repository of Python-based games! Here you will find a variety of 
 - **Calculator**: Perform calculations with this simple yet powerful utility.
 - **Chatbot**: Interact with a simple AI chatbot capable of responding to
 
-# Installation
-
+# Installation:
 **Download Python**: Visit the official Python website at python.org, hover over the "Downloads" menu, and the site should automatically offer the latest version for Windows. Click on it to download the installer.<br>
 **Run the Installer**: Open the downloaded file. Ensure you check the box that says "Add Python X.X to PATH" before clicking "Install Now," where "X.X" will be the latest version.<br>
 **Verify Installation**: Open Command Prompt and type python --version and press Enter. If Python is installed correctly, you will see the version number.<br>
