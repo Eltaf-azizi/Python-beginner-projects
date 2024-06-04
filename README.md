@@ -10,7 +10,7 @@ Welcome to my repository of Python-based games! Here you will find a variety of 
 - **Hangman**: Guess the word in this classic word-guessing game.
 - **Multiplayer Game**: Connect with friends and play this multiplayer experience.
 - **Platformer Game**: Jump and run through levels in this platforming adventure.
-- **Puzzle Game**: Engage your brain with a variety of challenging puzzles.
+- **Puzzle Game**: Engage your brain with various challenging puzzles.
 - **Quiz**: Test your knowledge on various topics with this interactive quiz.
 - **Rock Paper Scissors**: Play the timeless hand game against the computer.
 - **Role-Playing Game**: Embark on an adventure in this text-based RPG.
